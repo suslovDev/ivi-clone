@@ -1,0 +1,17 @@
+.heading {
+  color: #fff;
+  /* то что ниже убрать, когда будут обнуляющие стили */
+  margin: 0;
+}
+h1.heading {
+  font-size: 40px;
+  line-height: 44px;
+  font-weight: 700;
+  font-style: normal;
+}
+h2.heading {
+  font-size: 20px;
+}
+h3.heading {
+  font-size: 10px;
+}

@@ -1,0 +1,24 @@
+.chevrone {
+  background-color: transparent;
+  border: none;
+  opacity: 0.6;
+  cursor: pointer;
+}
+.chevrone:hover {
+  opacity: 1;
+}
+.large {
+  width: 32px;
+}
+.small {
+  width: 16px;
+}
+
+.left {
+  transform: rotate(180deg);
+}
+
+.chevrone svg {
+  width: inherit;
+  height: auto;
+}
